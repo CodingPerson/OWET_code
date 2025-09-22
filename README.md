@@ -31,7 +31,7 @@ This step generates a checkpoint file <init_file>.
 Based on this file, we run the following command to start training:
 
 ```
-sh train_BBN.sh --<init_file>
+sh train_BBN.sh -- <init_file>
 ```
 
 #### Run DVHA on the OntoNotes dataset:
@@ -44,5 +44,5 @@ This step generates a checkpoint file <init_file>.
 Based on this file, we run the following command to start training:
 
 ```
-sh train_OntoNotes.sh --<init_file>
+sh train_OntoNotes.sh -- <init_file>
 ```

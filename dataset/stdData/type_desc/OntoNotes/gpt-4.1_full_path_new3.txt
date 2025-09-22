@@ -1,0 +1,170 @@
+/other
+The "other" type encompasses entities that do not fall under the primary categories of person , organization , or location . It serves as a broad grouping for miscellaneous or abstract entities , including objects , concepts , events , and phenomena . This category provides a flexible space for types that are not easily classified elsewhere , such as products , currencies , or supernatural entities .
+
+/location
+The "location" type refers to entities that denote physical or geographical places , areas , or features . This includes both natural and human-made sites , ranging from countries and cities to specific structures and geographic formations . Locations are defined by their spatial properties and their role as settings or points in physical space .
+
+/organization
+The "organization" type includes entities that are formally structured groups of people with a collective purpose or function . Organizations can be governmental , commercial , educational , or otherwise , and are characterized by their institutional identity and coordinated activities . Examples include companies , political parties , and sports teams .
+
+/person
+The "person" type represents individual human beings , identified as distinct entities with personal identity and agency . This category includes people in various roles , professions , or statuses , such as artists , political figures , or legal professionals . Persons are defined by their individuality and capacity for action .
+
+/other/currency
+"Currency" refers to systems of money in common use within an economy , including both physical and digital forms . This type includes units of exchange such as the US Dollar , Euro , or Bitcoin , which facilitate trade and economic transactions . Currencies are defined by their role as standardized mediums of value .
+
+/other/health
+"Health" encompasses entities related to the maintenance , improvement , or restoration of physical and mental well-being . This includes concepts , practices , and systems associated with medicine , healthcare , and wellness . Examples include vaccination , public health , and mental health .
+
+/other/event
+"Event" denotes occurrences or happenings that unfold over time and have significance or impact . This type includes both planned and unplanned events , such as festivals , disasters , or elections . Events are characterized by their temporal nature and the participation or involvement of entities .
+
+/other/product
+"Product" refers to tangible or intangible items created , manufactured , or developed for use , consumption , or sale . This includes goods such as cars , software , or weapons , as well as digital products . Products are defined by their function as objects of utility or commerce .
+
+/other/living_thing
+"Living thing" includes entities that possess life , encompassing both animals and plants . This type is characterized by biological processes such as growth , reproduction , and response to stimuli . Examples include dogs , oak trees , and bacteria .
+
+/other/sports_and_leisure
+"Sports and leisure" covers activities , practices , or objects associated with recreation , physical exercise , or entertainment . This includes sports disciplines , games , and leisure pursuits . Examples are soccer , chess , and hiking .
+
+/other/body_part
+"Body part" refers to anatomical components of living organisms , particularly humans and animals . This type includes organs , limbs , and other physical structures such as the heart , arm , or wing . Body parts are defined by their biological function and physical form .
+
+/other/heritage
+"Heritage" encompasses entities related to cultural , historical , or natural legacy passed down through generations . This includes traditions , monuments , and sites recognized for their enduring value . Examples are the Great Wall of China , UNESCO World Heritage Sites , and folk music traditions .
+
+/other/scientific
+"Scientific" refers to entities associated with the domain of science , including theories , phenomena , and disciplines . This type includes scientific concepts , laws , and discoveries such as gravity , evolution , or quantum mechanics . Scientific entities are defined by their basis in systematic study and empirical evidence .
+
+/other/supernatural
+"Supernatural" includes entities or phenomena believed to exist beyond the laws of nature or scientific understanding . This type encompasses mythical beings , deities , and paranormal occurrences such as ghosts , angels , or telekinesis . Supernatural entities are characterized by their association with belief systems and the extraordinary .
+
+/location/country
+"Country" refers to a distinct territorial entity recognized as a sovereign nation-state . Countries are defined by their political boundaries , governance , and international recognition . Examples include France , Brazil , and Japan .
+
+/location/city
+"City" denotes a large , densely populated urban area with administrative , economic , and cultural significance . Cities are characterized by their infrastructure , governance , and role as centers of human activity . Examples include New York , Tokyo , and Paris .
+
+/location/structure
+"Structure" refers to constructed physical entities , typically built by humans for specific purposes . This type includes buildings , bridges , and monuments such as the Eiffel Tower , Golden Gate Bridge , or Burj Khalifa . Structures are defined by their architectural form and functional use .
+
+/location/geography
+"Geography" encompasses natural physical features and formations of the Earth's surface . This type includes mountains , rivers , deserts , and other landforms such as the Himalayas , Amazon River , or Sahara Desert . Geographic entities are defined by their natural origin and spatial characteristics .
+
+/location/park
+"Park" refers to designated areas of land preserved for recreation , conservation , or public enjoyment . Parks may be urban , national , or nature reserves , such as Central Park , Yellowstone National Park , or Kruger National Park . Parks are characterized by their managed landscapes and accessibility .
+
+/location/transit
+"Transit" includes entities related to transportation infrastructure and systems facilitating movement of people or goods . This type covers roads , railways , and transit hubs such as highways , subway lines , or airports . Transit entities are defined by their role in enabling travel and connectivity .
+
+/organization/government
+"Government" refers to entities that exercise authority and governance over a defined territory or population . This type includes national , regional , and local governing bodies such as the United States federal government , the European Commission , or city councils . Governments are characterized by their regulatory and administrative functions .
+
+/organization/stock_exchange
+"Stock exchange" denotes organized marketplaces where securities , commodities , or financial instruments are traded . Examples include the New York Stock Exchange , NASDAQ , and London Stock Exchange . Stock exchanges are defined by their role in facilitating investment and capital flow .
+
+/organization/military
+"Military" refers to organized armed forces maintained by a state or entity for defense and security purposes . This type includes armies , navies , and air forces such as the United States Army , Royal Navy , or Russian Air Force . Militaries are characterized by their hierarchical structure and defense mandate .
+
+/organization/political_party
+"Political party" encompasses organized groups that seek to influence or control government policy and leadership through electoral processes . Examples include the Democratic Party , Conservative Party , or Green Party . Political parties are defined by their ideological platforms and participation in political systems .
+
+/organization/sports_team
+"Sports team" refers to organized groups of athletes who compete collectively in sporting events . This type includes professional , amateur , and national teams such as the New York Yankees , FC Barcelona , or the Brazilian national football team . Sports teams are characterized by their team identity and participation in competitions .
+
+/organization/education
+"Education" includes institutions and organizations dedicated to teaching , learning , and research . This type covers schools , universities , and research institutes such as Harvard University , MIT , or local high schools . Educational organizations are defined by their instructional mission and academic structure .
+
+/person/political_figure
+"Political figure" refers to individuals who hold or have held positions of political authority or influence . This type includes elected officials , heads of state , and political leaders such as Angela Merkel , Barack Obama , or Mahatma Gandhi . Political figures are characterized by their public roles in governance and policy-making .
+
+/person/legal
+"Legal" encompasses individuals involved in the legal system , including judges , lawyers , and legal professionals . Examples include Supreme Court justices , defense attorneys , or prosecutors . Legal persons are defined by their expertise and roles within judicial or legal processes .
+
+/other/art
+"Art" refers to creative works and entities associated with artistic expression , including visual , performing , and literary arts . This type includes paintings , music , literature , and performances such as the Mona Lisa , Beethoven's symphonies , or Shakespeare's plays . Art entities are characterized by their aesthetic and cultural value .
+
+/other/legal
+"Legal" in this context refers to abstract legal concepts , documents , or instruments rather than individuals . This type includes laws , contracts , patents , and legal doctrines such as the Constitution , copyright law , or habeas corpus . Legal entities are defined by their role in regulating rights , obligations , and conduct .
+
+/other/food
+"Food" encompasses substances consumed for nutritional support , including ingredients , dishes , and beverages . Examples include bread , sushi , or coffee . Food entities are characterized by their role in sustenance and culinary culture .
+
+/organization/company
+"Company" refers to business entities formed for commercial , industrial , or professional activities . This type includes corporations , firms , and enterprises such as Apple Inc . , Toyota , or Deloitte . Companies are defined by their legal status , economic activity , and organizational structure .
+
+/person/artist
+"Artist" denotes individuals engaged in the creation or performance of art across various mediums . This type includes painters , musicians , writers , and actors such as Pablo Picasso , Beyoncé , or J.K. Rowling . Artists are characterized by their creative output and contribution to cultural expression .
+
+/person/title
+"Title" refers to honorifics , ranks , or designations associated with individuals , often indicating status , achievement , or role . Examples include "Dr." , "Sir" , "President" , or "Professor" . Titles are defined by their function as markers of distinction or authority .
+
+/other/health/treatment
+"Treatment" refers to methods , procedures , or interventions aimed at alleviating , curing , or managing health conditions . This type includes medical therapies , surgeries , and alternative remedies such as chemotherapy , physical therapy , or acupuncture . Treatments are characterized by their application in healthcare to improve patient outcomes .
+
+/other/event/sports_event
+"Sports event" denotes organized competitions or matches in which athletes or teams participate . Examples include the Olympic Games , FIFA World Cup , or the Super Bowl . Sports events are defined by their scheduled nature , competitive structure , and audience engagement .
+
+/other/event/protest
+"Protest" refers to organized public demonstrations expressing opposition or support for a cause , policy , or action . This type includes marches , rallies , and sit-ins such as the Women's March , Black Lives Matter protests , or climate strikes . Protests are characterized by collective action and advocacy .
+
+/other/event/holiday
+"Holiday" encompasses days of celebration , commemoration , or observance recognized by cultural , religious , or governmental authorities . Examples include Christmas , Eid al-Fitr , or Independence Day . Holidays are defined by their recurring nature and social or cultural significance .
+
+/other/event/natural_disaster
+"Natural disaster" refers to catastrophic events caused by natural forces , resulting in significant damage or disruption . This type includes earthquakes , hurricanes , floods , and wildfires such as the 2004 Indian Ocean tsunami or Hurricane Katrina . Natural disasters are characterized by their environmental origin and impact on human societies .
+
+/other/event/election
+"Election" denotes formal processes in which individuals vote to choose representatives or decide on issues . Examples include presidential elections , parliamentary elections , or referendums . Elections are defined by their structured procedures and role in governance .
+
+/other/product/weapon
+"Weapon" refers to devices or instruments designed for use in combat , defense , or attack . This type includes firearms , explosives , and melee weapons such as rifles , grenades , or swords . Weapons are characterized by their intended function to inflict harm or provide protection .
+
+/other/product/computer
+"Computer" encompasses electronic devices capable of processing data and executing programmed instructions . This type includes desktops , laptops , and servers such as the Apple MacBook , IBM mainframes , or Raspberry Pi . Computers are defined by their computational capabilities and technological design .
+
+/other/product/software
+"Software" refers to sets of instructions , programs , or applications that enable computers to perform specific tasks . Examples include Microsoft Windows , Adobe Photoshop , or mobile apps . Software is characterized by its intangible nature and role in facilitating digital operations .
+
+/other/living_thing/animal
+"Animal" denotes multicellular , eukaryotic organisms belonging to the kingdom Animalia . This type includes mammals , birds , reptiles , and other fauna such as lions , eagles , or dolphins . Animals are characterized by their ability to move , sensory perception , and heterotrophic nutrition .
+
+/location/structure/government
+"Government structure" refers to buildings or complexes that house governmental functions or authorities . Examples include the White House , the Houses of Parliament , or city halls . These structures are defined by their architectural design and role as centers of governance .
+
+/location/structure/hotel
+"Hotel" denotes establishments providing lodging , accommodation , and related services to travelers and guests . Examples include the Ritz-Carlton , Hilton , or local boutique hotels . Hotels are characterized by their hospitality function and facilities for temporary stay .
+
+/location/structure/sports_facility
+"Sports facility" refers to venues specifically designed for hosting sports activities and events . This type includes stadiums , arenas , and gymnasiums such as Wembley Stadium , Madison Square Garden , or local sports complexes . Sports facilities are defined by their infrastructure and suitability for athletic use .
+
+/location/transit/railway
+"Railway" encompasses systems and infrastructure for train transportation , including tracks , stations , and related facilities . Examples include the Trans-Siberian Railway , Shinkansen , or Amtrak lines . Railways are characterized by their role in facilitating rail transit .
+
+/location/transit/road
+"Road" refers to paved or unpaved routes designed for vehicular or pedestrian travel . This type includes highways , streets , and avenues such as Route 66 , the Autobahn , or Oxford Street . Roads are defined by their construction and function in transportation networks .
+
+/other/art/broadcast
+"Broadcast" in the context of art refers to creative works or programs transmitted via radio , television , or digital media . Examples include television series , radio dramas , or live-streamed performances such as "Game of Thrones" or NPR broadcasts . Broadcast art is characterized by its mass media distribution and audience reach .
+
+/other/art/writing
+"Writing" encompasses literary works and texts created for artistic , informational , or communicative purposes . This type includes novels , poems , essays , and scripts such as "War and Peace ," "The Raven ," or film screenplays . Writing is defined by its use of language and narrative or expressive intent .
+
+/other/product/car
+"Car" refers to motor vehicles designed primarily for the transportation of people on roads . Examples include the Toyota Corolla , Ford Mustang , or Tesla Model S . Cars are characterized by their automotive engineering , passenger capacity , and use in personal or commercial transport .
+
+/other/event/violent_conflict
+"Violent conflict" denotes events involving organized or large-scale physical confrontations , often resulting in harm or destruction . This type includes wars , battles , and armed clashes such as World War II , the Battle of Gettysburg , or civil wars . Violent conflicts are characterized by their intensity and impact on societies .
+
+/organization/company/broadcast
+"Broadcast company" refers to business entities engaged in the production and dissemination of audio-visual content via radio , television , or digital platforms . Examples include the BBC , NBC , or Netflix . Broadcast companies are defined by their media operations and content distribution .
+
+/organization/company/news
+"News company" encompasses organizations dedicated to gathering , producing , and distributing news and journalistic content . Examples include The New York Times , Reuters , or CNN. News companies are characterized by their focus on reporting current events and informing the public .
+
+/person/artist/author
+"Author" refers to individuals who create written works , including books , articles , and other literary compositions . Examples include J.K. Rowling , Ernest Hemingway , or Maya Angelou . Authors are defined by their role in originating and shaping written content .
+
+/location/geography/body_of_water
+"Body of water" denotes significant accumulations of water , either natural or artificial , on the Earth's surface . This type includes oceans , seas , lakes , and rivers such as the Pacific Ocean , Lake Victoria , or the Nile River . Bodies of water are characterized by their hydrological features and ecological importance .

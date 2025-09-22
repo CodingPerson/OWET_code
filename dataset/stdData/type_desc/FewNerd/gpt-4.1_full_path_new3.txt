@@ -1,0 +1,221 @@
+/product
+A product is a tangible or intangible item that is manufactured , developed , or created for use , consumption , or sale . This category encompasses physical goods , digital items , and engineered artifacts designed to fulfill specific functions or needs . Examples include automobiles , software applications , and consumer electronics .
+
+/organization
+An organization is a structured group of individuals or entities that collectively pursue specific goals , often formalized through legal or social frameworks . Organizations can vary in size , purpose , and structure , encompassing entities such as companies , governments , and non-profits . Examples include the United Nations , Google , and the Red Cross .
+
+/building
+A building is a constructed physical structure designed for human occupancy or use , serving various functions such as habitation , work , recreation , or storage . Buildings are typically permanent and can range from single-purpose facilities to complex multi-use structures . Examples include the Empire State Building , the Louvre Museum , and local libraries .
+
+/person
+A person is an individual human being , recognized as a distinct entity with unique identity , attributes , and social roles . This type encompasses all humans regardless of occupation , status , or background . Examples include Albert Einstein , Serena Williams , and Barack Obama .
+
+/location
+A location is a specific geographic area or point on the Earth's surface , defined by natural or human-made boundaries . Locations can range from countries and cities to natural features and constructed sites . Examples include Paris , Mount Everest , and the Amazon River .
+
+/misc
+The misc (miscellaneous) category includes entities that do not fit neatly into other primary types , often representing abstract concepts , scientific phenomena , or non-standardized items . This type serves as a catch-all for diverse entities such as currencies , languages , and diseases . Examples include the Euro , the Nobel Prize , and influenza .
+
+/event
+An event is an occurrence or happening , typically bounded in time and space , that involves participants or has significant consequences . Events can be planned or spontaneous , and may be social , political , natural , or cultural in nature . Examples include the Olympic Games , World War II , and the 2010 Haiti earthquake .
+
+/art
+Art refers to creative works or expressions produced by individuals or groups , often intended for aesthetic , cultural , or communicative purposes . This type encompasses various mediums and forms , including visual , literary , and performing arts . Examples include the Mona Lisa , Hamlet , and The Beatles' "Abbey Road" .
+
+/product/airplane
+An airplane is a powered , fixed-wing aircraft designed for air travel , capable of carrying passengers or cargo over varying distances . This type includes commercial airliners , private jets , and military aircraft . Examples are the Boeing 747 , Airbus A320 , and F-16 Fighting Falcon .
+
+/product/ship
+A ship is a large watercraft built for navigation on seas , oceans , or large inland waters , used for transportation , commerce , military , or recreational purposes . Ships can include cargo vessels , cruise liners , and naval warships . Examples include the RMS Titanic , USS Enterprise , and Queen Mary 2 .
+
+/product/software
+Software refers to digital programs or applications developed to perform specific tasks on computers or electronic devices . This type includes operating systems , productivity tools , and entertainment applications . Examples are Microsoft Windows , Adobe Photoshop , and WhatsApp .
+
+/product/other
+This category encompasses products that do not fall under the more specific product subtypes , including unique or specialized items . It serves as a residual class for miscellaneous manufactured or engineered goods . Examples might include musical instruments , furniture , or industrial machinery .
+
+/product/train
+A train is a series of connected vehicles that run on tracks and are designed for the transportation of passengers or freight over land . This type includes high-speed trains , subways , and freight locomotives . Examples are the Shinkansen , Eurostar , and Union Pacific freight trains .
+
+/product/car
+A car is a wheeled motor vehicle primarily designed for the transportation of people on roads , typically seating one to eight individuals . This type includes sedans , SUVs , and sports cars . Examples are the Toyota Corolla , Ford Mustang , and Tesla Model S .
+
+/product/game
+A game is a structured form of play or competition , often governed by rules and intended for entertainment , education , or skill development . This type includes board games , video games , and sports games . Examples are Chess , The Legend of Zelda , and Monopoly .
+
+/product/weapon
+A weapon is a tool or device designed to inflict harm , damage , or incapacitation , used in combat , defense , or hunting . This type includes firearms , explosives , and melee weapons . Examples are the AK-47 rifle , Tomahawk missile , and medieval swords .
+
+/product/food
+Food refers to substances consumed by living organisms for nutritional support , typically processed , prepared , or packaged for human consumption . This type includes individual food items , dishes , and branded food products . Examples are Coca-Cola , sushi , and Hershey's chocolate .
+
+/organization/government
+A government is an organization that exercises authority and governance over a defined territory or population , typically through established institutions and legal frameworks . This type includes national , regional , and local governing bodies . Examples are the United States federal government , the European Commission , and the City of Tokyo .
+
+/organization/other
+This category includes organizations that do not fit into the more specific subtypes , encompassing a wide range of formal groups with diverse purposes . Examples might include non-profit organizations , advocacy groups , and research institutes .
+
+/organization/company
+A company is a legally recognized business entity formed to engage in commercial , industrial , or professional activities , often with the aim of generating profit . This type includes corporations , partnerships , and startups . Examples are Apple Inc . , Toyota Motor Corporation , and Deloitte .
+
+/organization/media
+A media organization is an entity engaged in the production , distribution , or broadcasting of news , information , or entertainment content across various platforms . This type includes newspapers , television networks , and online publishers . Examples are BBC , The New York Times , and CNN .
+
+/organization/show_organization
+A show organization is an entity responsible for producing , managing , or presenting entertainment events or performances , such as television shows , theater productions , or live concerts . Examples include the Academy of Motion Picture Arts and Sciences (Oscars) , Cirque du Soleil , and the producers of "Saturday Night Live" .
+
+/organization/religion
+A religious organization is a structured group formed around shared beliefs , practices , and rituals related to spirituality or faith . This type includes churches , denominations , and religious orders . Examples are the Roman Catholic Church , the Islamic Society of North America , and the Buddhist Sangha .
+
+/organization/sports_league
+A sports league is an organization that governs , schedules , and regulates competitions among sports teams or individuals within a specific sport . This type includes professional , amateur , and collegiate leagues . Examples are the National Football League (NFL) , Premier League , and NBA .
+
+/organization/political_party
+A political party is an organized group of individuals who share common political ideologies and seek to influence government policy by nominating candidates and contesting elections . Examples include the Democratic Party (USA) , Conservative Party (UK) , and the Indian National Congress .
+
+/organization/sports_team
+A sports team is a group of athletes organized to compete collectively in sporting events , often representing a city , institution , or organization . This type includes professional , amateur , and school teams . Examples are the New York Yankees , FC Barcelona , and the Los Angeles Lakers .
+
+/organization/education
+An educational organization is an institution or entity dedicated to providing instruction , training , or research in various fields of knowledge . This type includes schools , universities , and educational foundations . Examples are Harvard University , Khan Academy , and the Massachusetts Institute of Technology .
+
+/building/sports_facility
+A sports facility is a building or complex specifically designed and equipped for athletic activities , competitions , or training . This type includes stadiums , arenas , and gymnasiums . Examples are Madison Square Garden , Wembley Stadium , and the Tokyo Dome .
+
+/building/theater
+A theater is a building or venue designed for the performance of plays , concerts , films , or other forms of entertainment before an audience . This type includes playhouses , opera houses , and cinemas . Examples are the Sydney Opera House , Broadway theaters , and the Odeon Leicester Square .
+
+/building/other
+This category includes buildings that do not fit into the more specific subtypes , encompassing a variety of structures with diverse functions . Examples might include warehouses , factories , and observatories .
+
+/building/hotel
+A hotel is a commercial building that provides lodging , accommodation , and often additional services such as dining and recreation to travelers and guests . Examples are the Ritz-Carlton , Hilton Hotels , and the Burj Al Arab .
+
+/building/airport
+An airport is a complex of buildings and facilities designed for the arrival , departure , and maintenance of aircraft , as well as the processing of passengers and cargo . Examples are Los Angeles International Airport (LAX) , Heathrow Airport , and Changi Airport .
+
+/building/library
+A library is a building or space dedicated to the collection , preservation , and lending of books , periodicals , and other informational resources for public or private use . Examples are the New York Public Library , the British Library , and the Library of Congress .
+
+/building/restaurant
+A restaurant is a building or establishment where food and beverages are prepared and served to customers , typically for on-site dining . Examples are McDonald's , The French Laundry , and Noma .
+
+/building/hospital
+A hospital is a building or complex that provides medical care , treatment , and health services to patients , often including emergency , surgical , and specialized departments . Examples are the Mayo Clinic , Massachusetts General Hospital , and Johns Hopkins Hospital .
+
+/person/athlete
+An athlete is a person who participates in sports or physical competitions , often at a professional or elite level , demonstrating physical skill , training , and performance . Examples are Usain Bolt , Serena Williams , and Lionel Messi .
+
+/person/scholar
+A scholar is an individual recognized for their expertise , research , or academic contributions in a particular field of study , often affiliated with educational or research institutions . Examples are Noam Chomsky , Marie Curie , and Amartya Sen .
+
+/person/director
+A director is a person responsible for overseeing the creative and practical aspects of producing films , television shows , theater productions , or similar works . Examples are Steven Spielberg , Ava DuVernay , and Akira Kurosawa .
+
+/person/actor
+An actor is an individual who performs roles in theatrical productions , films , television , or other media , portraying characters through speech , movement , and expression . Examples are Meryl Streep , Denzel Washington , and Leonardo DiCaprio .
+
+/person/other
+This category includes individuals who do not fit into the more specific person subtypes , encompassing a wide range of roles and backgrounds . Examples might include explorers , inventors , or business leaders .
+
+/person/artist_author
+An artist_author is a person who creates original works in the visual , literary , or performing arts , including writers , painters , sculptors , and composers . Examples are J.K. Rowling , Pablo Picasso , and Ludwig van Beethoven .
+
+/person/politician
+A politician is an individual actively involved in governance , policy-making , or public administration , often holding or seeking elected or appointed office . Examples are Angela Merkel , Barack Obama , and Narendra Modi .
+
+/person/soldier
+A soldier is a person who serves in an organized military force , trained for combat and defense operations , and may hold various ranks or roles within the armed services . Examples are Audie Murphy , Lyudmila Pavlichenko , and Dwight D . Eisenhower (in his military capacity) .
+
+/location/GPE
+A GPE (Geo-Political Entity) is a location defined by political or administrative boundaries , such as countries , states , provinces , or cities . This type includes sovereign nations , capitals , and municipalities . Examples are France , California , and Tokyo .
+
+/location/other
+This category includes locations that do not fit into the more specific subtypes , encompassing a variety of geographic or constructed places . Examples might include neighborhoods , regions , or landmarks .
+
+/location/road_transit
+A road_transit location refers to infrastructure designed for the movement of people or goods , including roads , highways , railways , and transit stations . Examples are the Trans-Siberian Railway , Route 66 , and Grand Central Terminal .
+
+/location/island
+An island is a landmass , smaller than a continent , completely surrounded by water and not permanently connected to the mainland . Examples are Madagascar , Manhattan , and the Galápagos Islands .
+
+/location/mountain
+A mountain is a natural elevation of the Earth's surface , typically rising prominently above its surroundings , often forming part of a range . Examples are Mount Everest , Kilimanjaro , and the Matterhorn .
+
+/location/park
+A park is a designated area of land , often maintained for public recreation , conservation , or natural preservation , which may be urban or rural . Examples are Yellowstone National Park , Central Park , and Hyde Park .
+
+/location/body_of_water
+A body_of_water is a significant accumulation of water , either natural or artificial , such as lakes , rivers , seas , or reservoirs . Examples are the Pacific Ocean , Lake Victoria , and the Nile River .
+
+/misc/currency
+A currency is a system of money in common use within a country or economic region , serving as a medium of exchange , unit of account , and store of value . Examples are the US Dollar (USD) , Euro (EUR) , and Japanese Yen (JPY) .
+
+/misc/award
+An award is a formal recognition or honor bestowed upon individuals , groups , or entities for notable achievements , excellence , or contributions in a particular field . Examples are the Nobel Prize , Academy Award (Oscar) , and the Pulitzer Prize .
+
+/misc/language
+A language is a structured system of communication , consisting of spoken , written , or signed symbols , used by a particular community or group . Examples are English , Mandarin Chinese , and American Sign Language .
+
+/misc/living_thing
+A living_thing is any organism that exhibits the characteristics of life , such as growth , reproduction , and response to stimuli , excluding humans . This type includes animals , plants , fungi , and microorganisms . Examples are the African elephant , oak tree , and E . coli bacteria .
+
+/misc/educational_degree
+An educational_degree is a formal qualification awarded by educational institutions upon completion of a prescribed course of study . Examples are Bachelor of Science (B.Sc.) , Master of Arts (M.A.) , and Doctor of Philosophy (Ph.D.) .
+
+/misc/god
+A god is a supernatural being or deity , often regarded as divine , worshipped , or revered in religious or spiritual traditions . Examples are Zeus , Vishnu , and Allah .
+
+/misc/biology
+Biology refers to scientific concepts , phenomena , or entities related to the study of living organisms and life processes , excluding specific living things . This type includes biological processes , structures , and classifications . Examples are photosynthesis , DNA , and the cell cycle .
+
+/misc/chemistry
+Chemistry encompasses scientific concepts , substances , or phenomena related to the composition , structure , properties , and reactions of matter . This type includes chemical elements , compounds , and reactions . Examples are sodium chloride , oxidation , and the periodic table .
+
+/misc/astronomy
+Astronomy refers to scientific concepts , objects , or phenomena related to celestial bodies and the universe beyond Earth's atmosphere . This type includes stars , planets , and astronomical events . Examples are the Milky Way , Halley's Comet , and supernovae .
+
+/misc/medical
+Medical refers to concepts , procedures , or entities associated with the science and practice of medicine , excluding specific diseases . This type includes treatments , medical devices , and specialties . Examples are MRI scans , chemotherapy , and cardiology .
+
+/misc/law
+Law refers to systems , rules , or principles established by authorities to regulate behavior , resolve disputes , and maintain order within societies . This type includes legal codes , statutes , and doctrines . Examples are the Constitution , habeas corpus , and the Civil Rights Act .
+
+/misc/disease
+A disease is a pathological condition affecting living organisms , characterized by specific symptoms , signs , or dysfunctions . This type includes infectious , genetic , and chronic diseases . Examples are diabetes , malaria , and Alzheimer's disease .
+
+/event/other
+This category includes events that do not fit into the more specific event subtypes , encompassing a wide range of occurrences . Examples might include anniversaries , festivals , or conferences .
+
+/event/protest
+A protest is a public demonstration or gathering expressing opposition , support , or demand for change regarding social , political , or economic issues . Examples are the Women's March , Tiananmen Square protests , and the Arab Spring demonstrations .
+
+/event/attack
+An attack is a deliberate act of aggression or violence , often resulting in harm , damage , or disruption , and may be carried out by individuals , groups , or states . Examples are the September 11 attacks , Pearl Harbor , and the Paris attacks of 2015 .
+
+/event/election
+An election is a formal process in which individuals vote to choose representatives , leaders , or decide on policy issues within a political system . Examples are the 2020 United States presidential election , the Brexit referendum , and the Indian general elections .
+
+/event/sports_event
+A sports_event is an organized competitive activity involving athletes or teams , often held at specific venues and times , and may be recurring or one-time . Examples are the FIFA World Cup , the Olympic Games , and the Super Bowl .
+
+/event/natural_disaster
+A natural_disaster is a significant adverse event resulting from natural processes of the Earth , causing widespread damage , loss , or disruption . Examples are the 2004 Indian Ocean tsunami , Hurricane Katrina , and the 2011 Tōhoku earthquake .
+
+/art/film
+A film is a motion picture or movie , created as a visual narrative work for entertainment , education , or artistic expression , typically intended for theatrical or digital release . Examples are "The Godfather" , "Spirited Away" , and "Parasite" .
+
+/art/broadcast
+A broadcast is an audio or audiovisual program transmitted to a dispersed audience via radio , television , or digital streaming platforms . This type includes news programs , talk shows , and live event coverage . Examples are "BBC News" , "The Tonight Show" , and "NPR's Morning Edition" .
+
+/art/written_art
+Written_art refers to creative works expressed through written language , including literature , poetry , and scripts . This type encompasses novels , plays , and essays . Examples are "War and Peace" , "Hamlet" , and "Leaves of Grass" .
+
+/art/other
+This category includes artistic works that do not fit into the more specific art subtypes , covering a range of creative expressions . Examples might include sculpture , dance performances , or multimedia installations .
+
+/art/music
+Music refers to artistic works composed of organized sound , including instrumental , vocal , or electronic compositions , created for performance or recording . Examples are Beethoven's "Symphony No. 9" , The Beatles' "Hey Jude" , and Beyoncé's "Lemonade" .
+
+/art/painting
+A painting is a visual artwork created by applying pigment to a surface , such as canvas , paper , or wall , often intended for aesthetic or expressive purposes . Examples are Leonardo da Vinci's "Mona Lisa" , Vincent van Gogh's "Starry Night" , and Frida Kahlo's "The Two Fridas" .

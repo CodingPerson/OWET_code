@@ -1,0 +1,13 @@
+total instance
+10474
+total types,1-level types,1-level instance,only 1-level instance,2-level types,2-level instance,only 2-level instance,3-level types,3-level instance
+57,4,10474,6664,30,3810,3400,23,410
+type instance count
+/other total,/other,/other/art total,/other/art,/other/art/writing,/other/art/broadcast,/other/currency total,/other/currency,/other/legal total,/other/legal,/other/health total,/other/health,/other/health/treatment,/other/event total,/other/event,/other/event/violent_conflict,/other/event/sports_event,/other/event/protest,/other/event/holiday,/other/event/election,/other/event/natural_disaster,/other/product total,/other/product,/other/product/weapon,/other/product/computer,/other/product/car,/other/product/software,/other/living_thing total,/other/living_thing,/other/living_thing/animal,/other/food total,/other/food,/other/body_part total,/other/body_part,/other/scientific total,/other/scientific,/other/heritage total,/other/heritage,/other/sports_and_leisure total,/other/sports_and_leisure,/other/supernatural total,/other/supernatural
+6852,5609,119,12,78,29,228,228,330,330,16,0,16,174,124,19,9,16,2,2,2,259,201,15,7,23,13,44,38,6,38,38,6,6,4,4,2,2,21,21,2,2
+/person total,/person,/person/artist total,/person/artist,/person/artist/author,/person/title total,/person/title,/person/political_figure total,/person/political_figure,/person/legal total,/person/legal
+1163,721,78,16,62,43,43,231,231,90,90
+/location total,/location,/location/geography total,/location/geography,/location/geography/body_of_water,/location/transit total,/location/transit,/location/transit/railway,/location/transit/road,/location/structure total,/location/structure,/location/structure/government,/location/structure/sports_facility,/location/structure/hotel,/location/country total,/location/country,/location/city total,/location/city,/location/park total,/location/park
+1013,258,62,54,8,13,0,6,7,102,81,8,8,5,304,304,271,271,3,3
+/organization total,/organization,/organization/company total,/organization/company,/organization/company/news,/organization/company/broadcast,/organization/government total,/organization/government,/organization/stock_exchange total,/organization/stock_exchange,/organization/education total,/organization/education,/organization/military total,/organization/military,/organization/sports_team total,/organization/sports_team,/organization/political_party total,/organization/political_party
+1446,76,1100,1031,53,16,241,241,5,5,6,6,9,9,2,2,7,7

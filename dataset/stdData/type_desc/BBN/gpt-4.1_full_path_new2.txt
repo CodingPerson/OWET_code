@@ -1,0 +1,134 @@
+/LOCATION
+A broad category for physical places or areas that are not defined by political boundaries . Includes natural and man-made geographic features .
+
+/ORGANIZATION
+A group of people structured for a specific purpose , such as business , governance , religion , or other collective activities .
+
+/PERSON
+An individual human being , identified by name or other distinguishing characteristics .
+
+/SUBSTANCE
+A material with a distinct physical presence , which can be natural or synthetic , including chemicals , drugs , and foods .
+
+/GPE
+A location defined by political boundaries and governance , such as countries , states , or cities .
+
+/PRODUCT
+A tangible item or artifact created , manufactured , or produced for use or sale .
+
+/FACILITIES
+Physical structures or complexes built for specific functions , such as buildings , transportation hubs , or attractions .
+
+/DISEASE
+A specific medical condition or illness affecting living organisms .
+
+/EVENT
+A significant occurrence or happening , often with a specific time and place , such as natural disasters or conflicts .
+
+/GAME
+A structured form of play or competition , governed by rules , often for entertainment or sport .
+
+/LANGUAGE
+A system of communication , spoken or written , used by a particular community or country .
+
+/PLANT
+A living organism belonging to the kingdom Plantae , including trees , flowers , grasses , and other vegetation .
+
+/CONTACT_INFO
+Information used to communicate with a person or organization , such as phone numbers , email addresses , or physical addresses .
+
+/WORK_OF_ART
+A creative work produced by human skill and imagination , such as literature , music , or visual art .
+
+/LAW
+A rule or set of rules established by authority , governing conduct within a community or country .
+
+/ANIMAL
+A living organism belonging to the kingdom Animalia , distinct from plants , fungi , and microorganisms .
+
+/LOCATION/REGION
+A large , often loosely defined area of land that may span multiple countries or administrative divisions , not necessarily aligned with political boundaries (e.g. , the Middle East , the Arctic) .
+
+/LOCATION/CONTINENT
+One of the Earth's principal large landmasses , such as Africa , Asia , or Europe .
+
+/LOCATION/LAKE_SEA_OCEAN
+A significant body of water , including lakes (inland) , seas (partially enclosed by land) , and oceans (vast , continuous bodies of salt water) .
+
+/LOCATION/RIVER
+A natural flowing watercourse , usually freshwater , moving towards an ocean , sea , lake , or another river .
+
+/ORGANIZATION/CORPORATION
+A legally recognized business entity engaged in commercial , industrial , or professional activities .
+
+/ORGANIZATION/GOVERNMENT
+An administrative body or institution responsible for governing a country , state , or community .
+
+/ORGANIZATION/POLITICAL
+A group formed to influence or participate in political processes , such as political parties or advocacy groups .
+
+/ORGANIZATION/HOTEL
+An establishment providing lodging , and often other services , to travelers and guests .
+
+/ORGANIZATION/RELIGIOUS
+An institution or group organized around religious beliefs , practices , or worship .
+
+/ORGANIZATION/HOSPITAL
+A healthcare institution providing patient treatment with specialized staff and equipment .
+
+/ORGANIZATION/EDUCATIONAL
+An institution dedicated to education and learning , such as schools , colleges , or universities .
+
+/SUBSTANCE/DRUG
+A chemical substance used for medical treatment , prevention , or diagnosis of disease , or for recreational purposes .
+
+/SUBSTANCE/CHEMICAL
+A pure substance or compound with a specific chemical composition , not limited to drugs (e.g. , water , sodium chloride) .
+
+/SUBSTANCE/FOOD
+Any substance consumed to provide nutritional support for an organism , including both raw and prepared items .
+
+/GPE/CITY
+An urban area with defined boundaries and local governance , typically larger than a town .
+
+/GPE/STATE_PROVINCE
+A primary administrative division within a country , such as a state in the USA or a province in Canada .
+
+/GPE/COUNTRY
+A sovereign nation with defined borders and its own government .
+
+/PRODUCT/VEHICLE
+A manufactured means of transportation , such as cars , airplanes , ships , or trains .
+
+/PRODUCT/WEAPON
+An object or device designed for use in inflicting harm or damage , such as firearms , explosives , or knives .
+
+/FACILITIES/BUILDING
+A constructed structure with a roof and walls , such as houses , offices , or factories .
+
+/FACILITIES/AIRPORT
+A complex for the arrival , departure , and maintenance of aircraft , including runways and terminals .
+
+/FACILITIES/HIGHWAY_STREET
+A constructed route for vehicular or pedestrian traffic , including highways , streets , and roads .
+
+/FACILITIES/ATTRACTION
+A place or structure designed to attract visitors for leisure , entertainment , or cultural interest , such as amusement parks or landmarks .
+
+/FACILITIES/BRIDGE
+A structure built to span a physical obstacle , such as a river or road , for the purpose of providing passage .
+
+/EVENT/HURRICANE
+A specific type of natural disaster characterized by a large , powerful tropical cyclone with strong winds and heavy rain .
+
+/EVENT/WAR
+A prolonged conflict between countries or groups , typically involving organized armed forces .
+
+/WORK_OF_ART/BOOK
+A written or printed literary work , typically bound and consisting of pages .
+
+/WORK_OF_ART/PLAY
+A dramatic composition intended for theatrical performance .
+
+/WORK_OF_ART/SONG
+A musical composition with lyrics , intended to be sung .

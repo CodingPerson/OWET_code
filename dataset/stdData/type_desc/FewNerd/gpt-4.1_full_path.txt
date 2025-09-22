@@ -1,0 +1,221 @@
+/product
+A tangible or intangible item created , manufactured , or developed for use , consumption , or sale , including goods , devices , vehicles , software , and other commercial offerings .
+
+/product/airplane
+A powered flying vehicle with fixed wings , designed for air travel and transportation of passengers or cargo .
+
+/product/ship
+A large watercraft designed for maritime transport of people or goods across seas , oceans , or other navigable waters .
+
+/product/software
+A set of computer programs , applications , or operating systems designed to perform specific tasks or functions on electronic devices .
+
+/product/other
+A product that does not fit into more specific product subcategories , encompassing miscellaneous manufactured or developed items .
+
+/product/train
+A series of connected rail vehicles , typically powered by a locomotive , used for transporting passengers or freight along railway tracks .
+
+/product/car
+A road vehicle , usually with four wheels and powered by an engine , designed for the transportation of passengers .
+
+/product/game
+A structured form of play or competition , often with rules and objectives , including video games , board games , and sports games .
+
+/organization
+A group or entity formed for a specific purpose , such as business , government , education , or social activities , with a defined structure and membership .
+
+/organization/government
+A public institution or body responsible for governing a country , region , or community , including its administrative and political functions .
+
+/organization/other
+An organization that does not fit into more specific organizational subcategories , including miscellaneous groups or entities .
+
+/organization/company
+A business entity engaged in commercial , industrial , or professional activities , typically aiming to generate profit .
+
+/organization/media
+An organization involved in the production , distribution , or broadcasting of news , information , or entertainment content , such as newspapers , TV stations , or publishers .
+
+/organization/show_organization
+An organization responsible for producing , managing , or presenting entertainment shows , such as theater companies , production studios , or event organizers .
+
+/organization/religion
+A religious institution or group organized around shared beliefs , practices , and worship , such as churches , temples , or religious orders .
+
+/organization/sports_league
+An organized group of sports teams or clubs that compete against each other according to a set schedule and rules .
+
+/organization/political_party
+A formally organized group of people with shared political beliefs and goals , aiming to influence or control government policy and leadership .
+
+/organization/sports_team
+A group of athletes who compete together in a specific sport , representing a club , school , city , or country .
+
+/building
+A structure with a roof and walls , constructed for human use or occupancy , such as houses , offices , or public facilities .
+
+/building/sports_facility
+A building or complex designed for hosting sports events , training , or recreational activities , such as stadiums , arenas , or gyms .
+
+/building/theater
+A building or venue designed for the performance of plays , concerts , films , or other forms of entertainment .
+
+/building/other
+A building that does not fit into more specific building subcategories , including miscellaneous structures .
+
+/building/hotel
+A commercial establishment offering lodging , and often food and other services , to travelers and guests .
+
+/building/airport
+A complex of runways , terminals , and facilities for the arrival , departure , and maintenance of aircraft and passengers .
+
+/building/library
+A building or room containing collections of books , periodicals , and other informational materials for reading , study , or reference .
+
+/person
+An individual human being , regardless of gender , age , or occupation .
+
+/person/athlete
+A person who competes in one or more sports , often professionally or at a high level of skill .
+
+/person/scholar
+A person engaged in academic study or research , often recognized for expertise in a particular field .
+
+/person/director
+A person responsible for overseeing and managing the creative aspects of a film , play , or other performance .
+
+/person/actor
+A person who performs roles in films , television , theater , or other dramatic productions .
+
+/person/other
+A person who does not fit into more specific person subcategories , including miscellaneous individuals .
+
+/person/artist_author
+A person who creates artistic works , such as visual art , literature , or music , including authors , painters , and composers .
+
+/person/politician
+A person actively involved in politics , especially as an elected official or government leader .
+
+/location
+A specific place or area , either natural or man-made , defined by geographic or administrative boundaries .
+
+/location/GPE
+A geopolitical entity , such as a country , state , province , city , or other region with defined political boundaries .
+
+/location/other
+A location that does not fit into more specific location subcategories , including miscellaneous places .
+
+/location/road_transit
+A road , highway , railway , or other transportation route or infrastructure used for travel or transit .
+
+/location/island
+A landmass , smaller than a continent , completely surrounded by water .
+
+/location/mountain
+A large natural elevation of the earth's surface , rising prominently above its surroundings .
+
+/misc
+A miscellaneous category for entities that do not fit into other defined types , encompassing a wide range of items or concepts .
+
+/misc/currency
+A system of money in common use , including coins , banknotes , and digital forms , used as a medium of exchange .
+
+/misc/award
+A prize , honor , or recognition given to individuals or organizations for achievement or excellence in a particular field .
+
+/misc/language
+A system of communication , spoken or written , used by a particular community or country .
+
+/misc/living_thing
+A biological organism that is alive , including animals , plants , fungi , and microorganisms .
+
+/misc/educational_degree
+A qualification awarded by an educational institution to signify completion of a course of study , such as a bachelor's , master's , or doctoral degree .
+
+/misc/god
+A deity or divine being worshipped in a religion or spiritual tradition .
+
+/misc/biology
+A concept , term , or entity related to the science of living organisms and life processes .
+
+/misc/chemistry
+A concept , term , or entity related to the science of substances , their properties , reactions , and transformations .
+
+/misc/astronomy
+A concept , term , or entity related to the scientific study of celestial objects , space , and the universe .
+
+/misc/medical
+A concept , term , or entity related to medicine , healthcare , diseases , or medical treatments .
+
+/event
+An occurrence or happening , often significant or noteworthy , that takes place at a specific time and place .
+
+/event/other
+An event that does not fit into more specific event subcategories , including miscellaneous happenings .
+
+/event/protest
+A public demonstration or gathering expressing opposition or support for a cause , policy , or action .
+
+/event/attack
+A violent or aggressive action intended to harm , damage , or defeat a person , group , or place .
+
+/event/election
+A formal process in which people vote to choose individuals for public office or decide on policy issues .
+
+/event/sports_event
+A competitive athletic event or tournament involving individual athletes or teams .
+
+/misc/law
+A rule , regulation , or system of rules established by a government or authority to regulate behavior .
+
+/misc/disease
+A disorder or abnormal condition affecting the body or mind , often characterized by specific symptoms .
+
+/art
+A creative work or expression in visual , literary , musical , or performing arts .
+
+/art/film
+A motion picture or movie , typically produced for entertainment , education , or artistic expression .
+
+/art/broadcast
+A program or content transmitted via radio , television , or digital media for public consumption .
+
+/art/written_art
+A literary work , such as a novel , poem , play , or essay , created for artistic or expressive purposes .
+
+/art/other
+An artistic work or creation that does not fit into more specific art subcategories .
+
+/art/music
+A musical composition , song , or performance created for artistic or entertainment purposes .
+
+/art/painting
+A visual artwork created by applying pigment to a surface , such as canvas or paper .
+
+/person/soldier
+A person who serves in an army or military force , often trained for combat or defense .
+
+/product/weapon
+A device or instrument designed for inflicting harm , damage , or death , used in combat or defense .
+
+/product/food
+A substance consumed for nutritional support , including meals , ingredients , and edible products .
+
+/event/natural_disaster
+A catastrophic event caused by natural forces , such as earthquakes , floods , hurricanes , or wildfires .
+
+/location/park
+A designated area of land , often public , set aside for recreation , conservation , or enjoyment of nature .
+
+/location/body_of_water
+A significant accumulation of water , such as a river , lake , sea , or ocean .
+
+/building/restaurant
+A commercial establishment where meals and beverages are prepared and served to customers .
+
+/building/hospital
+A healthcare facility providing medical treatment , care , and services to patients .
+
+/organization/education
+An institution or entity dedicated to teaching , learning , or academic research , such as schools , colleges , or universities .

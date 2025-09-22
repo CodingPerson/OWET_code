@@ -1,0 +1,36 @@
+import numpy as np
+from itertools import combinations
+
+def pairwise_cosine_similarity_score(arr1, arr2):
+    # arr1: (A, K), arr2: (B, K)
+    # Normalize each row to unit vector
+    arr1_norm = arr1 / (np.linalg.norm(arr1, axis=1, keepdims=True) + 1e-8)
+    arr2_norm = arr2 / (np.linalg.norm(arr2, axis=1, keepdims=True) + 1e-8)
+    
+    # Compute cosine similarity matrix: (A, B)
+    sim_matrix = np.dot(arr1_norm, arr2_norm.T)
+    
+    # Average all pairwise similarities
+    return np.mean(sim_matrix)
+
+def compute_all_pairwise_similarities(arr_list):
+    n = len(arr_list)
+    sim_list = []
+    
+    for i, j in combinations(range(n), 2):
+        sim = pairwise_cosine_similarity_score(arr_list[i], arr_list[j])
+        sim_list.append(((i, j), sim))
+    
+    return sim_list
+
+# 示例数据
+arr_list = [
+    np.random.rand(5, 128),
+    np.random.rand(6, 128),
+    np.random.rand(4, 128)
+]
+
+similarities = compute_all_pairwise_similarities(arr_list)
+
+for (i, j), sim in similarities:
+    print(f"Similarity between arr[{i}] and arr[{j}]: {sim:.4f}")

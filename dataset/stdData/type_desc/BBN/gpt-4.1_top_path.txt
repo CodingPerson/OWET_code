@@ -1,0 +1,179 @@
+LOCATION
+A general term for any physical place or area, including natural or man-made sites, that can be identified geographically.
+泛指任何可通过地理位置识别的物理场所或区域，包括自然或人造地点。
+
+REGION
+A large, typically undefined or loosely bounded geographic area, often characterized by shared features such as culture, climate, or administrative boundaries.
+通常指范围模糊或边界松散的大片地理区域，常以共同特征（如文化、气候或行政边界）为标志。
+
+CONTINENT
+One of the Earth's principal large landmasses, such as Africa, Asia, Europe, North America, South America, Antarctica, or Australia.
+地球上的主要大陆块之一，如非洲、亚洲、欧洲、北美洲、南美洲、南极洲或澳大利亚。
+
+LAKE_SEA_OCEAN
+A significant body of water, either inland (lake), partially enclosed by land (sea), or a vast, continuous expanse of salt water (ocean).
+大型水体，包括内陆水域（湖泊）、部分被陆地包围的水域（海）或广阔的咸水连续区域（洋）。
+
+ORGANIZATION
+A group of people structured and managed to meet a need or pursue collective goals, such as companies, non-profits, clubs, or institutions.
+为满足需求或实现共同目标而组织管理的群体，如企业、非营利机构、俱乐部或学术机构。
+
+CORPORATION
+A specific type of organization that is a legally recognized business entity, typically with shareholders, created to conduct commercial activities.
+一种特殊类型的组织，作为法律认可的商业实体，通常拥有股东并从事商业活动。
+
+GOVERNMENT
+An organization or system that exercises authority and performs administrative functions for a political unit, such as a country, state, or city.
+为政治单位（如国家、州或城市）行使权力并履行行政职能的组织或体系。
+
+POLITICAL
+Entities related to political parties, movements, or groups involved in governance, advocacy, or political processes.
+与政党、运动或参与治理、倡导及政治过程的团体相关的实体。
+
+HOTEL
+An establishment that provides lodging, and often meals and other services, to travelers and guests.
+为旅行者和客人提供住宿，通常包括餐饮及其他服务的场所。
+
+RELIGIOUS
+An entity associated with religious practice or belief, such as a church, mosque, temple, or religious organization.
+与宗教实践或信仰相关的实体，如教堂、清真寺、寺庙或宗教组织。
+
+HOSPITAL
+A healthcare facility providing medical treatment, surgery, and nursing care to sick or injured people.
+为病人或伤者提供医疗、手术和护理服务的医疗机构。
+
+PERSON
+An individual human being, identified by name or other distinguishing characteristics.
+以姓名或其他特征区分的独立人类个体。
+
+SUBSTANCE
+A material with a particular composition or properties, which can be natural or synthetic, and may include solids, liquids, or gases.
+具有特定成分或性质的材料，可以是天然或合成的，包括固体、液体或气体。
+
+DRUG
+A chemical substance used for medical diagnosis, treatment, or prevention of disease, or for altering physiological functions.
+用于疾病诊断、治疗或预防，或改变生理功能的化学物质。
+
+CHEMICAL
+A pure substance or compound with a defined composition, produced by or used in a chemical process.
+具有明确成分的纯物质或化合物，通过化学过程生产或使用。
+
+GPE
+(Geo-Political Entity) A location defined by political boundaries, such as a country, state, province, or city.
+（地理政治实体）由政治边界定义的地点，如国家、州、省或城市。
+
+CITY
+A large and permanent human settlement, typically with its own local government and administrative systems.
+拥有本地政府及行政系统的大型永久性人类聚居地。
+
+STATE_PROVINCE
+A primary administrative division within a country, such as a state in the USA or a province in Canada.
+国家内部的主要行政划分，如美国的州或加拿大的省。
+
+PRODUCT
+A tangible or intangible item created for sale or use, including goods, services, or digital offerings.
+为销售或使用而创造的有形或无形物品，包括商品、服务或数字产品。
+
+VEHICLE
+A means of transportation, such as a car, truck, train, airplane, or ship, used to carry people or goods.
+用于运输人员或货物的交通工具，如汽车、卡车、火车、飞机或船舶。
+
+WEAPON
+An object or device designed to inflict harm or damage, used in combat, defense, or hunting.
+设计用于造成伤害或破坏的物体或装置，用于战斗、防御或狩猎。
+
+FACILITIES
+Physical structures or complexes designed for a specific function, such as factories, stadiums, or research centers.
+为特定功能设计的物理结构或建筑群，如工厂、体育场或研究中心。
+
+BUILDING
+A constructed structure with a roof and walls, such as a house, office, or skyscraper, intended for occupancy or use.
+带有屋顶和墙壁的人造结构，如房屋、办公室或摩天大楼，供居住或使用。
+
+AIRPORT
+A complex of runways and buildings for the takeoff, landing, and maintenance of aircraft, and for passenger and cargo services.
+包含跑道和建筑的综合性场所，用于飞机起降、维护及乘客与货物运输服务。
+
+HIGHWAY_STREET
+A paved public road or thoroughfare for vehicular or pedestrian traffic, including highways, streets, avenues, and boulevards.
+供车辆或行人通行的铺装公共道路，包括公路、街道、林荫大道等。
+
+ATTRACTION
+A place or feature that draws visitors due to its cultural, historical, natural, or entertainment value.
+因文化、历史、自然或娱乐价值而吸引游客的地点或景观。
+
+BRIDGE
+A structure built to span a physical obstacle, such as a river or road, allowing passage over it.
+为跨越物理障碍（如河流或道路）而建造的结构，便于通行。
+
+DISEASE
+A disorder or abnormal condition affecting the body or mind, often characterized by specific symptoms and signs.
+影响身体或心理的紊乱或异常状态，通常伴随特定症状和体征。
+
+EVENT
+A significant occurrence or happening, such as a festival, competition, ceremony, or historical incident.
+具有重要性的活动或事件，如节日、比赛、典礼或历史性事件。
+
+HURRICANE
+A powerful tropical cyclone characterized by strong winds, heavy rain, and low pressure, typically forming over warm ocean waters.
+形成于温暖海洋上的强热带气旋，以强风、暴雨和低气压为特征。
+
+GAME
+An activity or contest with rules, played for entertainment, competition, or skill development, including sports and video games.
+基于规则的活动或竞赛，用于娱乐、竞技或技能发展，包括体育和电子游戏。
+
+LANGUAGE
+A system of communication using spoken, written, or signed words and symbols, used by a particular community or country.
+特定社群或国家使用的交流系统，通过口语、文字或符号进行沟通。
+
+PLANT
+A living organism of the kingdom Plantae, such as trees, flowers, grasses, or shrubs, that typically produces its own food via photosynthesis.
+植物界的生物，如树木、花卉、草类或灌木，通常通过光合作用自产养分。
+
+CONTACT_INFO
+Information used to communicate with a person or organization, such as phone numbers, email addresses, or physical addresses.
+用于与个人或组织联系的信息，如电话号码、电子邮件地址或实际地址。
+
+COUNTRY
+A distinct territorial body or political entity recognized as an independent nation, with its own government and borders.
+被承认为独立国家的独特领土或政治实体，拥有自主政府和边界。
+
+FOOD
+Any substance consumed to provide nutritional support for the body, including meals, ingredients, and edible products.
+为身体提供营养的可食用物质，包括餐食、食材及加工食品。
+
+WORK_OF_ART
+A creative piece produced by an artist, such as a painting, sculpture, photograph, or other visual artwork.
+艺术家创作的创造性作品，如绘画、雕塑、摄影或其他视觉艺术品。
+
+BOOK
+A written or printed work consisting of pages bound together, typically conveying information, stories, or knowledge.
+由装订成册的页面组成的文字或印刷作品，通常传递信息、故事或知识。
+
+PLAY
+A dramatic literary work intended for performance by actors on a stage.
+为演员在舞台上表演而创作的戏剧文学作品。
+
+SONG
+A musical composition with lyrics, intended to be sung by a voice or voices.
+带有歌词的音乐作品，设计为由人声演唱。
+
+LAW
+A rule or system of rules established by a government or authority to regulate behavior and maintain order.
+政府或权威机构制定的规则体系，用于规范行为并维持秩序。
+
+EDUCATIONAL
+An institution, program, or resource dedicated to teaching, learning, or academic research, such as schools, universities, or courses.
+致力于教学、学习或学术研究的机构、项目或资源，如学校、大学或课程。
+
+RIVER
+A large, natural stream of water flowing toward an ocean, sea, lake, or another river.
+流向海洋、湖泊或其他河流的大型天然水流。
+
+ANIMAL
+A living organism of the kingdom Animalia, distinct from plants, capable of movement and responsive to its environment.
+动物界的生物，区别于植物，能够自主活动并对环境产生反应。
+
+WAR
+A large-scale, organized conflict between countries, states, or groups, typically involving armed forces and significant violence.
+国家、州或团体之间的大规模有组织冲突，通常涉及武装力量和重大暴力行为。

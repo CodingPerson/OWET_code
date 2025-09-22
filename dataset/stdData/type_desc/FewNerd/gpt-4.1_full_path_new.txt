@@ -1,0 +1,221 @@
+/product
+A tangible or intangible item created , manufactured , or developed for use , consumption , or sale . This includes vehicles , software , games , and other goods .
+
+/organization
+A structured group of people with a common purpose , such as companies , governments , religious groups , or sports teams .
+
+/building
+A man-made structure designed for specific functions , such as housing , business , entertainment , or public service .
+
+/person
+An individual human being , categorized by their roles , professions , or notable characteristics .
+
+/location
+A specific place or geographic area , either natural or man-made , such as countries , cities , or physical features .
+
+/misc
+A miscellaneous category for entities that do not fit into the other main types , including abstract concepts , scientific terms , and living things .
+
+/event
+An occurrence or happening , often bounded in time , such as protests , elections , or natural disasters .
+
+/art
+Creative works produced by human expression , including literature , music , film , and visual arts .
+
+/product/airplane
+Aircraft designed for air travel , including commercial , military , and private planes .
+
+/product/ship
+Watercraft designed for navigation on water , such as boats , ships , and submarines .
+
+/product/software
+Computer programs or applications , including operating systems , apps , and digital tools .
+
+/product/other
+Products that do not fit into the specified subcategories , such as furniture or appliances .
+
+/product/train
+Rail vehicles designed for transportation on tracks , including passenger and freight trains .
+
+/product/car
+Motor vehicles designed primarily for road transport of people or goods , such as cars , trucks , and buses .
+
+/product/game
+Structured forms of play or competition , including video games , board games , and sports equipment .
+
+/product/weapon
+Devices or tools designed for use in combat or defense , such as guns , missiles , or swords .
+
+/product/food
+Edible items produced for consumption , including raw ingredients and prepared foods .
+
+/organization/government
+Official bodies or institutions that govern a country , region , or community , such as ministries or agencies .
+
+/organization/other
+Organizations that do not fit into the specified subcategories , such as non-profits or informal groups .
+
+/organization/company
+Businesses or corporations engaged in commercial , industrial , or professional activities .
+
+/organization/media
+Entities involved in mass communication , such as newspapers , TV networks , or publishers .
+
+/organization/show_organization
+Groups or companies responsible for producing or managing entertainment shows or performances .
+
+/organization/religion
+Religious institutions or groups , such as churches , temples , or denominations .
+
+/organization/sports_league
+Governing bodies that organize and regulate sports competitions , such as the NBA or FIFA .
+
+/organization/political_party
+Groups formed to influence or participate in political processes , such as Democrats or Conservatives .
+
+/organization/sports_team
+Teams that compete in sports , such as the New York Yankees or Manchester United .
+
+/organization/education
+Institutions dedicated to education , such as schools , universities , or academies .
+
+/building/sports_facility
+Structures designed for sports or athletic activities , such as stadiums or arenas .
+
+/building/theater
+Venues for performing arts , such as plays , concerts , or movies .
+
+/building/other
+Buildings that do not fit into the specified subcategories , such as factories or warehouses .
+
+/building/hotel
+Establishments providing lodging and accommodations for travelers .
+
+/building/airport
+Complexes for air travel , including runways , terminals , and related facilities .
+
+/building/library
+Buildings housing collections of books and other informational resources for public or private use .
+
+/building/restaurant
+Establishments where food and beverages are prepared and served to customers .
+
+/building/hospital
+Facilities providing medical care and treatment to patients .
+
+/person/athlete
+Individuals who participate in sports or physical competitions professionally or at a high level .
+
+/person/scholar
+Academics or researchers recognized for their expertise in a particular field of study .
+
+/person/director
+Individuals who oversee and guide the production of films , plays , or other creative works .
+
+/person/actor
+Individuals who perform roles in films , television , theater , or other media .
+
+/person/other
+People who do not fit into the specified subcategories , such as activists or celebrities .
+
+/person/artist_author
+Creators of artistic or literary works , such as writers , poets , painters , or sculptors .
+
+/person/politician
+Individuals involved in politics , such as elected officials or government leaders .
+
+/person/soldier
+Members of the armed forces or military personnel .
+
+/location/GPE
+Geopolitical entities , such as countries , states , provinces , or cities .
+
+/location/other
+Locations that do not fit into the specified subcategories , such as neighborhoods or regions .
+
+/location/road_transit
+Routes or infrastructure for transportation , such as roads , highways , or railways .
+
+/location/island
+Land masses surrounded by water , smaller than continents .
+
+/location/mountain
+Elevated landforms rising prominently above their surroundings .
+
+/location/park
+Designated areas for recreation or conservation , such as national or city parks .
+
+/location/body_of_water
+Natural or artificial water features , such as lakes , rivers , or seas .
+
+/misc/currency
+Systems of money in common use , such as the dollar or euro .
+
+/misc/award
+Honors or prizes given in recognition of achievement .
+
+/misc/language
+Systems of communication , spoken or written , such as English or Mandarin .
+
+/misc/living_thing
+Organisms that are alive , excluding humans , such as animals or plants .
+
+/misc/educational_degree
+Academic qualifications awarded by educational institutions , such as a Bachelor’s or PhD .
+
+/misc/god
+Deities or divine beings worshipped in various religions .
+
+/misc/biology
+Terms or concepts related to the science of living organisms .
+
+/misc/chemistry
+Terms or concepts related to the science of substances and their interactions .
+
+/misc/astronomy
+Terms or concepts related to celestial objects and the universe .
+
+/misc/medical
+Terms or concepts related to medicine , health , or healthcare .
+
+/misc/law
+Legal concepts , statutes , or regulations .
+
+/misc/disease
+Disorders or illnesses affecting living organisms .
+
+/event/other
+Events that do not fit into the specified subcategories , such as festivals or conferences .
+
+/event/protest
+Organized public demonstrations expressing opinions or demands .
+
+/event/attack
+Acts of aggression or violence , such as terrorist attacks or assaults .
+
+/event/election
+Formal processes for selecting individuals for public office .
+
+/event/sports_event
+Organized competitions or matches in sports .
+
+/event/natural_disaster
+Catastrophic natural events , such as earthquakes , floods , or hurricanes .
+
+/art/film
+Motion pictures or movies as creative works .
+
+/art/broadcast
+Audio or video programs transmitted via radio , television , or online streaming .
+
+/art/written_art
+Literary works , such as novels , poems , or essays .
+
+/art/other
+Artistic works that do not fit into the specified subcategories , such as installations .
+
+/art/music
+Compositions or performances of musical works .
+
+/art/painting
+Visual artworks created using paint on surfaces such as canvas or walls .

@@ -1,0 +1,171 @@
+/other
+A broad category for entities that do not fit into more specific types , encompassing miscellaneous or uncategorized items , concepts , or phenomena .
+
+/other/currency
+Official systems of money in use within countries or regions , including coins , banknotes , and digital forms , used as a medium of exchange .
+
+/other/health
+Entities related to physical or mental well-being , including conditions , practices , or concepts associated with maintaining or improving health .
+
+/other/health/treatment
+Methods , procedures , or interventions used to cure , alleviate , or manage diseases , injuries , or health conditions .
+
+/other/event
+Occurrences or happenings , often significant or noteworthy , that take place at a specific time and place .
+
+/other/event/sports_event
+Organized athletic competitions or matches , including tournaments , games , races , or championships .
+
+/other/event/protest
+Public demonstrations or gatherings expressing opposition or support for a cause, policy , or action .
+
+/other/event/holiday
+Designated days of celebration , commemoration , or observance , often marked by cultural , religious , or national significance .
+
+/other/event/natural_disaster
+Catastrophic events caused by natural forces , such as earthquakes , floods , hurricanes , or wildfires , resulting in significant damage or disruption .
+
+/other/event/election
+Formal processes in which individuals vote to choose representatives or decide on policies , typically within a political system .
+
+/other/product
+Manufactured or created items intended for use , consumption , or sale , encompassing a wide range of goods .
+
+/other/product/weapon
+Devices or instruments designed for use in combat or defense , capable of inflicting harm or damage .
+
+/other/product/computer
+Electronic devices capable of processing data and performing calculations , including desktops , laptops , and servers .
+
+/other/product/software
+Programs, applications , or operating systems that provide instructions for computers or electronic devices to perform specific tasks .
+
+/other/living_thing
+Organisms that exhibit life , including animals , plants , fungi , and microorganisms .
+
+/other/living_thing/animal
+Multicellular , eukaryotic organisms belonging to the kingdom Animalia , characterized by mobility and sensory response .
+
+/other/sports_and_leisure
+Activities , games , or pastimes undertaken for enjoyment , recreation , or physical exercise .
+
+/other/body_part
+Anatomical components or structures of living organisms , such as organs , limbs , or tissues .
+
+/other/heritage
+Cultural , historical , or natural assets inherited from past generations , valued for their significance and preservation .
+
+/other/scientific
+Entities related to science , including theories , principles , discoveries , or scientific phenomena .
+
+/other/supernatural
+Entities or phenomena believed to exist beyond the laws of nature , often associated with myths , legends , or religious beliefs .
+
+/location
+Geographical places or areas , including natural and human-made sites .
+
+/location/country
+Sovereign states or nations with defined borders , governments , and recognized international status .
+
+/location/city
+Large , densely populated urban areas , typically with administrative , economic , and cultural significance .
+
+/location/structure
+Constructed buildings or facilities , including architectural works and infrastructure .
+
+/location/structure/government
+Buildings or complexes housing governmental institutions , such as parliaments , ministries , or city halls .
+
+/location/structure/hotel
+Establishments providing lodging , accommodation , and related services to travelers and guests .
+
+/location/structure/sports_facility
+Venues designed for hosting sports events , including stadiums , arenas , and gymnasiums .
+
+/location/geography
+Natural features or formations of the Earth 's surface , such as mountains , rivers , or deserts .
+
+/location/park
+Designated areas of land , often public , preserved for recreation , conservation , or natural beauty .
+
+/location/transit
+Places or systems facilitating transportation , including stations , terminals , or routes .
+
+/location/transit/railway
+Rail transport infrastructure , including train stations , tracks , and related facilities .
+
+/location/transit/road
+Roadways or highways designed for vehicular travel , including streets , avenues , and expressways .
+
+/organization
+Groups or entities formed for a specific purpose , including businesses , institutions , or associations .
+
+/organization/government
+Official bodies or institutions responsible for governing a country , region , or community .
+
+/organization/stock_exchange
+Marketplaces where securities , stocks , and other financial instruments are bought and sold .
+
+/organization/military
+Armed forces or defense organizations responsible for national security and defense operations .
+
+/organization/political_party
+Groups organized to influence or participate in political processes , typically by nominating candidates and promoting policies .
+
+/organization/sports_team
+Groups of athletes organized to compete in sports , representing clubs , schools , or regions .
+
+/organization/education
+Institutions or organizations dedicated to teaching , learning , and academic research , such as schools , colleges , and universities .
+
+/person
+Individual human beings , regardless of age , gender , or occupation .
+
+/person/political_figure
+Individuals actively involved in politics , often holding or seeking public office or leadership roles .
+
+/person/legal
+Individuals involved in legal proceedings or holding legal status , such as judges , lawyers , or defendants .
+
+/other/art
+Creative works or expressions , including visual arts , music , literature , and performance .
+
+/other/art/broadcast
+Artistic or informational content transmitted via radio , television , or digital media .
+
+/other/art/writing
+Written works, including books , articles , poetry , and other literary forms .
+
+/other/legal
+Entities related to law , including legal concepts , documents , or proceedings .
+
+/other/food
+Substances consumed for nutrition or pleasure , including meals , ingredients , and beverages .
+
+/other/product/car
+Motor vehicles designed for personal transportation , typically with four wheels and powered by an engine .
+
+/other/event/violent_conflict
+Events involving physical confrontation , warfare , or armed struggle between groups or nations .
+
+/organization/company
+Business entities engaged in commercial , industrial , or professional activities .
+
+/organization/company/broadcast
+Companies specializing in the production or transmission of radio , television , or digital broadcast content .
+
+/organization/company/news
+Companies focused on gathering , producing , and distributing news and journalistic content .
+
+/person/artist
+Individuals engaged in creative or artistic pursuits , such as painters , musicians , actors , or performers .
+
+/person/artist/author
+Writers or creators of literary works , including books , articles , or other written content .
+
+/person/title
+Honorifics , ranks , or professional designations associated with individuals , such as "Dr." , "President" , or "Sir" .
+
+/location/geography/body_of_water
+Natural water features , such as rivers , lakes , seas , or oceans .
+

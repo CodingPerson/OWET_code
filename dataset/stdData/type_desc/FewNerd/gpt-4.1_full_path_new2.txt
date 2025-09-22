@@ -1,0 +1,221 @@
+/product
+Physical or digital items that are manufactured , developed , or created for use , consumption , or sale .
+
+/organization
+Groups or institutions formed for a specific purpose , including businesses , governments , and other formal collectives .
+
+/building
+Man-made structures designed for specific functions , such as habitation , work , or public use .
+
+/person
+Individual human beings , identified by their roles , professions , or notable characteristics .
+
+/location
+Geographical places or areas , either natural or man-made , that can be identified on a map .
+
+/misc
+Miscellaneous entities that do not fit neatly into other categories , including abstract concepts , scientific terms , and living things not classified as persons .
+
+/event
+Occurrences or happenings , often bounded in time and space , that are notable or significant .
+
+/art
+Creative works produced by human imagination or skill , including visual , literary , and performing arts .
+
+/product/airplane
+Aircraft designed for air travel , including commercial , private , and military planes .
+
+/product/ship
+Watercraft designed for transportation or other activities on water , such as boats , ships , and submarines .
+
+/product/software
+Computer programs , applications , or operating systems developed for digital devices .
+
+/product/other
+Products that do not fit into the more specific product subtypes , including miscellaneous manufactured or created items .
+
+/product/train
+Rail vehicles designed for transportation of passengers or goods along tracks .
+
+/product/car
+Motor vehicles designed primarily for road transportation of people or goods .
+
+/product/game
+Structured forms of play or competitive activities , including video games , board games , and sports games .
+
+/product/weapon
+Devices or tools designed for use in combat or defense , including firearms , explosives , and melee weapons .
+
+/product/food
+Edible items or beverages produced for human consumption .
+
+/organization/government
+Institutions or bodies that govern , administer , or regulate a country , region , or community .
+
+/organization/other
+Organizations that do not fit into the more specific organization subtypes , including miscellaneous groups or collectives .
+
+/organization/company
+Business entities formed to engage in commercial , industrial , or professional activities .
+
+/organization/media
+Organizations involved in the production or dissemination of news , information , or entertainment , such as newspapers , TV stations , or publishers .
+
+/organization/show_organization
+Groups or entities responsible for producing or managing shows , performances , or entertainment events .
+
+/organization/religion
+Religious institutions , denominations , or organized faith-based groups .
+
+/organization/sports_league
+Organizations that oversee , regulate , or organize sports competitions among teams or individuals .
+
+/organization/political_party
+Groups organized to participate in political processes , typically by nominating candidates and promoting specific ideologies .
+
+/organization/sports_team
+Teams formed to compete in sports , representing clubs , schools , cities , or countries .
+
+/organization/education
+Institutions dedicated to teaching and learning , such as schools , colleges , and universities .
+
+/building/sports_facility
+Structures designed for hosting sports activities or events , such as stadiums , arenas , or gyms .
+
+/building/theater
+Buildings designed for the performance of plays , films , or other entertainment , including cinemas and playhouses .
+
+/building/other
+Buildings that do not fit into the more specific building subtypes , including miscellaneous structures .
+
+/building/hotel
+Establishments providing lodging , accommodation , and related services to travelers .
+
+/building/airport
+Complexes designed for the arrival , departure , and maintenance of aircraft , including terminals and runways .
+
+/building/library
+Buildings housing collections of books , media , and other informational resources for public or private use .
+
+/building/restaurant
+Establishments where food and beverages are prepared and served to customers .
+
+/building/hospital
+Facilities providing medical treatment and care to patients .
+
+/person/athlete
+Individuals who participate in sports or physical competitions , either professionally or as amateurs .
+
+/person/scholar
+Individuals recognized for their academic achievements or contributions to research and education .
+
+/person/director
+Individuals responsible for overseeing and guiding the artistic or operational aspects of films , plays , or organizations .
+
+/person/actor
+Individuals who perform roles in films , television , theater , or other dramatic productions .
+
+/person/other
+Persons who do not fit into the more specific person subtypes , including miscellaneous notable individuals .
+
+/person/artist_author
+Individuals who create works of art or literature , such as painters , writers , poets , or sculptors .
+
+/person/politician
+Individuals involved in politics , typically holding or seeking public office .
+
+/person/soldier
+Members of the armed forces , including those serving in the army , navy , air force , or other military branches .
+
+/location/GPE
+Geopolitical entities , such as countries , states , provinces , or cities , defined by political boundaries .
+
+/location/other
+Locations that do not fit into the more specific location subtypes , including miscellaneous places .
+
+/location/road_transit
+Roadways , highways , railways , or other transit routes used for transportation .
+
+/location/island
+Land masses completely surrounded by water , smaller than continents .
+
+/location/mountain
+Elevated landforms rising prominently above their surroundings , typically with steep slopes .
+
+/location/park
+Designated areas for recreation , conservation , or public enjoyment , such as city parks or national parks .
+
+/location/body_of_water
+Natural or artificial accumulations of water , such as lakes , rivers , seas , or reservoirs .
+
+/misc/currency
+Monetary units or systems of exchange used in economic transactions .
+
+/misc/award
+Prizes , honors , or recognitions given for achievement or excellence in a particular field .
+
+/misc/language
+Systems of communication , either spoken or written , used by human communities .
+
+/misc/living_thing
+Non-human living organisms , including animals , plants , and other life forms .
+
+/misc/educational_degree
+Academic qualifications or titles awarded upon completion of a course of study .
+
+/misc/god
+Deities or supernatural beings worshipped or revered in religious traditions .
+
+/misc/biology
+Terms , concepts , or entities related to the science of living organisms .
+
+/misc/chemistry
+Terms , concepts , or entities related to the science of substances and their interactions .
+
+/misc/astronomy
+Terms , concepts , or entities related to the study of celestial objects and the universe .
+
+/misc/medical
+Terms , concepts , or entities related to medicine , health , or medical practice .
+
+/misc/law
+Legal concepts , statutes , or systems governing behavior and societal order .
+
+/misc/disease
+Medical conditions or illnesses affecting living organisms .
+
+/event/other
+Events that do not fit into the more specific event subtypes , including miscellaneous occurrences .
+
+/event/protest
+Public demonstrations or gatherings expressing opposition or support for a cause .
+
+/event/attack
+Acts of aggression or violence , including military , terrorist , or criminal assaults .
+
+/event/election
+Processes in which individuals vote to choose leaders or decide on policies .
+
+/event/sports_event
+Organized competitions or matches in various sports .
+
+/event/natural_disaster
+Significant adverse natural events , such as earthquakes , floods , hurricanes , or wildfires .
+
+/art/film
+Motion pictures or movies created for entertainment , education , or artistic expression .
+
+/art/broadcast
+Audio or visual programs transmitted via radio , television , or digital streaming .
+
+/art/written_art
+Literary works , including novels , poems , essays , and other written compositions .
+
+/art/other
+Artistic works that do not fit into the more specific art subtypes , including miscellaneous creative outputs .
+
+/art/music
+Compositions or performances involving vocal or instrumental sounds .
+
+/art/painting
+Visual artworks created using paint on surfaces such as canvas , paper , or walls .

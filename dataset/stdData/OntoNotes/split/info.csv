@@ -1,0 +1,45 @@
+labeled
+total instance
+4368
+total types,1-level types,1-level instance,only 1-level instance,2-level types,2-level instance,only 2-level instance,3-level types,3-level instance
+43,4,4368,3333,24,1035,971,15,64
+type instance count
+/other total,/other,/other/currency total,/other/currency,/other/health total,/other/health,/other/health/treatment,/other/event total,/other/event,/other/event/sports_event,/other/event/protest,/other/event/holiday,/other/event/natural_disaster,/other/event/election,/other/product total,/other/product,/other/product/weapon,/other/product/computer,/other/product/software,/other/living_thing total,/other/living_thing,/other/living_thing/animal,/other/sports_and_leisure total,/other/sports_and_leisure,/other/body_part total,/other/body_part,/other/heritage total,/other/heritage,/other/scientific total,/other/scientific,/other/supernatural total,/other/supernatural
+3165,2805,114,114,8,0,8,78,62,5,8,1,1,1,120,101,8,4,7,22,19,3,11,11,3,3,1,1,2,2,1,1
+/location total,/location,/location/country total,/location/country,/location/city total,/location/city,/location/structure total,/location/structure,/location/structure/government,/location/structure/hotel,/location/structure/sports_facility,/location/geography total,/location/geography,/location/park total,/location/park,/location/transit total,/location/transit,/location/transit/railway,/location/transit/road
+505,128,152,152,136,136,52,41,4,3,4,27,27,2,2,7,0,3,4
+/organization total,/organization,/organization/government total,/organization/government,/organization/stock_exchange total,/organization/stock_exchange,/organization/military total,/organization/military,/organization/political_party total,/organization/political_party,/organization/sports_team total,/organization/sports_team,/organization/education total,/organization/education
+175,38,121,121,3,3,5,5,4,4,1,1,3,3
+/person total,/person,/person/political_figure total,/person/political_figure,/person/legal total,/person/legal
+522,361,116,116,45,45
+
+unlabeled
+total instance
+4348
+total types,1-level types,1-level instance,only 1-level instance,2-level types,2-level instance,only 2-level instance,3-level types,3-level instance
+43,4,4348,3330,24,1018,960,15,58
+type instance count
+/location total,/location,/location/structure total,/location/structure,/location/structure/sports_facility,/location/structure/hotel,/location/structure/government,/location/city total,/location/city,/location/country total,/location/country,/location/transit total,/location/transit,/location/transit/railway,/location/transit/road,/location/geography total,/location/geography,/location/park total,/location/park
+499,128,50,40,4,2,4,135,135,152,152,6,0,3,3,27,27,1,1
+/other total,/other,/other/event total,/other/event,/other/event/holiday,/other/event/protest,/other/event/sports_event,/other/event/natural_disaster,/other/event/election,/other/heritage total,/other/heritage,/other/product total,/other/product,/other/product/weapon,/other/product/computer,/other/product/software,/other/currency total,/other/currency,/other/health total,/other/health,/other/health/treatment,/other/scientific total,/other/scientific,/other/supernatural total,/other/supernatural,/other/living_thing total,/other/living_thing,/other/living_thing/animal,/other/sports_and_leisure total,/other/sports_and_leisure,/other/body_part total,/other/body_part
+3158,2804,77,62,1,8,4,1,1,1,1,116,100,7,3,6,114,114,8,0,8,2,2,1,1,22,19,3,10,10,3,3
+/person total,/person,/person/political_figure total,/person/political_figure,/person/legal total,/person/legal
+520,360,115,115,45,45
+/organization total,/organization,/organization/government total,/organization/government,/organization/military total,/organization/military,/organization/sports_team total,/organization/sports_team,/organization/education total,/organization/education,/organization/political_party total,/organization/political_party,/organization/stock_exchange total,/organization/stock_exchange
+171,38,120,120,4,4,1,1,3,3,3,3,2,2
+
+unknown
+total instance
+1758
+total types,1-level types,1-level instance,only 1-level instance,2-level types,2-level instance,only 2-level instance,3-level types,3-level instance
+21,4,1758,0,9,1758,1470,8,288
+type instance count
+/other total,/other,/other/art total,/other/art,/other/art/broadcast,/other/art/writing,/other/legal total,/other/legal,/other/food total,/other/food,/other/product total,/other/product,/other/product/car,/other/event total,/other/event,/other/event/violent_conflict
+529,0,119,12,29,78,330,330,38,38,23,0,23,19,0,19
+/organization total,/organization,/organization/company total,/organization/company,/organization/company/broadcast,/organization/company/news
+1100,0,1100,1031,16,53
+/person total,/person,/person/artist total,/person/artist,/person/artist/author,/person/title total,/person/title
+121,0,78,16,62,43,43
+/location total,/location,/location/geography total,/location/geography,/location/geography/body_of_water
+8,0,8,0,8
+

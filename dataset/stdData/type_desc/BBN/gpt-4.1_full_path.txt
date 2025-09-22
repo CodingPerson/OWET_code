@@ -1,0 +1,134 @@
+/LOCATION
+A general term for any physical place or area , including natural and man-made sites , without specifying administrative or functional boundaries .
+
+/LOCATION/REGION
+A broad geographic area that may span multiple administrative divisions , often defined by physical , cultural , or historical characteristics rather than strict political boundaries .
+
+/LOCATION/CONTINENT
+One of the Earth 's large , continuous landmasses, such as Africa , Asia , or Europe , typically comprising multiple countries and regions .
+
+/LOCATION/LAKE_SEA_OCEAN
+A large body of water , either freshwater ( lake ) or saltwater ( sea or ocean ) , recognized as a significant geographic feature .
+
+/ORGANIZATION
+A group of people structured and managed to pursue collective goals , such as businesses , institutions , agencies , or associations .
+
+/ORGANIZATION/CORPORATION
+A legally recognized business entity , often large and for-profit , that operates independently from its owners and is authorized to conduct commercial activities .
+
+/ORGANIZATION/GOVERNMENT
+An official body or institution responsible for governing a country , state , or community , including its various departments and agencies .
+
+/ORGANIZATION/POLITICAL
+A group or party organized to influence or participate in political processes , such as political parties , advocacy groups , or campaign committees .
+
+/ORGANIZATION/HOTEL
+A commercial establishment providing lodging , meals, and other guest services , typically for travelers and tourists .
+
+/ORGANIZATION/RELIGIOUS
+An institution or group organized around shared religious beliefs and practices , such as churches , temples , mosques , or religious orders .
+
+/ORGANIZATION/HOSPITAL
+A healthcare institution providing medical treatment , surgery , and nursing care to patients , often including emergency and specialized services .
+
+/PERSON
+An individual human being , identified by name or role , regardless of age , gender , or occupation .
+
+/SUBSTANCE
+A material with a distinct physical composition , which can be natural or synthetic , and may be used for various purposes .
+
+/SUBSTANCE/DRUG
+A chemical substance used for medical treatment , prevention , or diagnosis of diseases , or for recreational purposes , often regulated by law .
+
+/SUBSTANCE/CHEMICAL
+A pure substance or compound with a specific chemical composition , used in scientific , industrial , or everyday contexts .
+
+/GPE
+A geopolitical entity , such as a country , state, province , or city , defined by political boundaries and governance .
+
+/GPE/CITY
+An urban area with defined boundaries and local government , typically larger than a town and serving as a center of population , commerce, and culture .
+
+/GPE/STATE_PROVINCE
+A primary administrative division within a country , such as a state in the USA or a province in Canada , with its own local government .
+
+/PRODUCT
+A tangible or intangible item created for sale , use, or consumption , including goods , services , and digital offerings .
+
+/PRODUCT/VEHICLE
+A means of transportation designed to carry people or goods , such as cars , trucks, trains , ships , or aircraft .
+
+/PRODUCT/WEAPON
+A device or tool designed to inflict harm , damage , or death , used in combat , defense , or hunting .
+
+/FACILITIES
+Physical structures or complexes built for specific purposes , such as buildings , infrastructure , or venues .
+
+/FACILITIES/BUILDING
+A constructed edifice with a roof and walls , intended for occupancy or use , such as houses , offices , or schools .
+
+/FACILITIES/AIRPORT
+A complex of runways , terminals , and support facilities for the arrival , departure , and maintenance of aircraft and passengers .
+
+/FACILITIES/HIGHWAY_STREET
+A paved route or thoroughfare designed for vehicular or pedestrian traffic , including highways , streets , and roads .
+
+/FACILITIES/ATTRACTION
+A place or structure that draws visitors due to its cultural , historical , natural , or entertainment value .
+
+/FACILITIES/BRIDGE
+A structure built to span a physical obstacle , such as a river or road , allowing passage over it .
+
+/DISEASE
+A disorder or abnormal condition affecting the body or mind , often characterized by specific symptoms and signs .
+
+/EVENT
+An occurrence or happening , often of significance , such as meetings , festivals , incidents , or historical milestones .
+
+/EVENT/HURRICANE
+A powerful tropical cyclone characterized by strong winds , heavy rain , and potential for widespread damage , typically named and tracked by meteorological agencies .
+
+/GAME
+A structured form of play or competition , governed by rules, and often undertaken for entertainment , education , or skill development .
+
+/LANGUAGE
+A system of communication , spoken or written , used by a particular community or country .
+
+/PLANT
+A living organism belonging to the kingdom Plantae , capable of photosynthesis , including trees , shrubs , herbs , grasses , and ferns .
+
+/CONTACT_INFO
+Information used to establish communication with a person or organization , such as phone numbers , email addresses , or physical addresses .
+
+/GPE/COUNTRY
+A sovereign nation with defined borders , a permanent population , and its own government , recognized as an independent state .
+
+/SUBSTANCE/FOOD
+Any substance consumed to provide nutritional support for the body , including solid and liquid items , whether raw or prepared .
+
+/WORK_OF_ART
+A creative work produced by an artist , encompassing visual , literary , musical , or performance arts .
+
+/WORK_OF_ART/BOOK
+A written or printed literary work , typically bound and consisting of pages , such as novels , textbooks , or reference materials .
+
+/WORK_OF_ART/PLAY
+A dramatic literary work intended for performance by actors on a stage .
+
+/WORK_OF_ART/SONG
+A musical composition with lyrics , intended to be sung and often accompanied by instruments .
+
+/LAW
+A rule or set of rules established by a governing authority , enforceable by legal means , regulating behavior within a society .
+
+/ORGANIZATION/EDUCATIONAL
+An institution or group dedicated to teaching , learning , and research , such as schools, colleges , or universities .
+
+/LOCATION/RIVER
+A natural flowing watercourse , usually freshwater , moving towards an ocean , sea , lake , or another river .
+
+/ANIMAL
+A living organism belonging to the kingdom Animalia , characterized by voluntary movement and consumption of organic material .
+
+/EVENT/WAR
+A prolonged conflict between organized groups , typically countries or factions , involving armed combat and significant impact on societies .

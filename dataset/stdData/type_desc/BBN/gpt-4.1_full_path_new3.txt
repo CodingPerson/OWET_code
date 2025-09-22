@@ -1,0 +1,134 @@
+/LOCATION
+A LOCATION is a broad spatial entity that refers to any identifiable place or area , either natural or man-made , that can be situated geographically . This type encompasses physical sites , geographic features , and designated areas that may not have formal political or administrative boundaries . Examples include the Sahara Desert , the Amazon Rainforest , and the Grand Canyon .
+
+/LOCATION/REGION
+A LOCATION/REGION is a substantial geographic area that is typically defined by natural , cultural , or historical characteristics , rather than by strict political boundaries . Regions may span multiple countries or be contained within a single country , and are often recognized for shared features such as climate , language , or topography . Examples include the Middle East , the Midwest , and the Alps .
+
+/LOCATION/CONTINENT
+A LOCATION/CONTINENT is a vast , continuous expanse of land that constitutes one of the principal divisions of the Earth's surface . Continents are generally recognized by their large size and distinct geological and cultural identities . Examples include Africa , Europe , and South America .
+
+/LOCATION/LAKE_SEA_OCEAN
+A LOCATION/LAKE_SEA_OCEAN refers to a significant body of water , either enclosed (lake) , partially enclosed (sea) , or open and vast (ocean) , that is a prominent feature of the Earth's hydrosphere . These entities are characterized by their size , ecological importance , and role in global geography . Examples include Lake Superior , the Mediterranean Sea , and the Pacific Ocean .
+
+/LOCATION/RIVER
+A LOCATION/RIVER is a naturally occurring , flowing body of freshwater that moves along a defined channel from its source to its mouth , often emptying into a larger body of water . Rivers are significant for their ecological , economic , and cultural roles in human societies . Examples include the Nile , the Amazon , and the Danube .
+
+/ORGANIZATION
+An ORGANIZATION is a structured group of individuals or entities that are collectively established to pursue specific goals , activities , or functions . Organizations can be formal or informal and may operate in various sectors such as business , government , religion , or education . Examples include the United Nations , Apple Inc . , and the Red Cross .
+
+/ORGANIZATION/CORPORATION
+An ORGANIZATION/CORPORATION is a legally recognized business entity that is formed to conduct commercial activities , typically with the aim of generating profit for its shareholders . Corporations are characterized by their formal structure , legal personhood , and ability to enter contracts . Examples include Microsoft , Toyota , and Nestlé .
+
+/ORGANIZATION/GOVERNMENT
+An ORGANIZATION/GOVERNMENT is an entity that exercises authority and governance over a defined territory or population , often through established institutions and legal frameworks . Governments are responsible for creating and enforcing laws , providing public services , and representing the interests of their constituents . Examples include the United States federal government , the European Commission , and the Government of India .
+
+/ORGANIZATION/POLITICAL
+An ORGANIZATION/POLITICAL is a group formed to influence or participate in political processes , often through advocacy , campaigning , or the pursuit of public office . These entities may include political parties , movements , or action committees . Examples include the Democratic Party , Greenpeace , and the Tea Party Movement .
+
+/ORGANIZATION/HOTEL
+An ORGANIZATION/HOTEL is a commercial establishment that provides lodging , and often additional services such as dining and event hosting , to travelers and guests . Hotels are typically organized as businesses and may operate independently or as part of a chain . Examples include Hilton Hotels & Resorts , Marriott International , and The Ritz London .
+
+/ORGANIZATION/RELIGIOUS
+An ORGANIZATION/RELIGIOUS is a formal group or institution dedicated to the practice , promotion , or administration of religious beliefs and activities . These organizations may oversee places of worship , charitable work , and community events . Examples include the Roman Catholic Church , the Islamic Society of North America , and Chabad-Lubavitch .
+
+/ORGANIZATION/HOSPITAL
+An ORGANIZATION/HOSPITAL is a healthcare institution that provides medical treatment , care , and services to patients , often including emergency , inpatient , and outpatient care . Hospitals are typically staffed by medical professionals and may be public , private , or nonprofit entities . Examples include Mayo Clinic , Massachusetts General Hospital , and St . Jude Children's Research Hospital .
+
+/ORGANIZATION/EDUCATIONAL
+An ORGANIZATION/EDUCATIONAL is an institution or entity established to provide instruction , training , or research in various fields of knowledge . These organizations may range from primary schools to universities and specialized training centers . Examples include Harvard University , MIT , and the British Museum .
+
+/PERSON
+A PERSON is an individual human being , recognized as a distinct entity with personal identity , rights , and responsibilities . This type encompasses all humans regardless of age , gender , or occupation . Examples include Albert Einstein , Malala Yousafzai , and Serena Williams .
+
+/SUBSTANCE
+A SUBSTANCE is a material entity with a definite chemical composition or physical properties , which can exist naturally or be synthesized . Substances may be used for various purposes , including consumption , manufacturing , or medical treatment . Examples include water , gold , and penicillin .
+
+/SUBSTANCE/DRUG
+A SUBSTANCE/DRUG is a chemical or biological compound that is administered to diagnose , treat , or prevent diseases and medical conditions in humans or animals . Drugs are characterized by their pharmacological effects and regulatory oversight . Examples include aspirin , insulin , and morphine .
+
+/SUBSTANCE/CHEMICAL
+A SUBSTANCE/CHEMICAL is a pure material or compound with a specific molecular structure , often used in industrial , scientific , or household applications . Chemicals may be naturally occurring or synthetically produced . Examples include sodium chloride , ethanol , and sulfuric acid .
+
+/SUBSTANCE/FOOD
+A SUBSTANCE/FOOD is any material , typically of plant or animal origin , that is consumed by living organisms to provide nutritional support and energy . Foods are characterized by their edibility and role in sustaining life . Examples include bread , apples , and chicken .
+
+/GPE
+A GPE is a political or administrative unit that possesses defined boundaries and governance structures , such as countries , states , or cities . GPEs are recognized for their legal status and authority over a geographic area . Examples include France , California , and Tokyo .
+
+/GPE/CITY
+A GPE/CITY is an urban area with a significant population , infrastructure , and administrative governance , often serving as a center for commerce , culture , and government . Cities are typically recognized as distinct legal entities within larger political units . Examples include New York City , Paris , and Mumbai .
+
+/GPE/STATE_PROVINCE
+A GPE/STATE_PROVINCE is a primary administrative division within a country , possessing its own government and certain legislative powers . States or provinces are recognized for their role in regional governance and identity . Examples include Texas , Ontario , and Bavaria .
+
+/GPE/COUNTRY
+A GPE/COUNTRY is a sovereign political entity with internationally recognized borders , a permanent population , and a government that exercises full control over its territory . Countries are the highest level of geopolitical organization . Examples include Japan , Brazil , and Egypt .
+
+/PRODUCT
+A PRODUCT is a tangible or intangible item that is created , manufactured , or developed for use , consumption , or sale . Products may serve various functions , from personal use to industrial applications . Examples include smartphones , software , and furniture .
+
+/PRODUCT/VEHICLE
+A PRODUCT/VEHICLE is a manufactured means of transportation designed to carry people or goods from one location to another . Vehicles may operate on land , water , or air , and are characterized by their mobility and engineering . Examples include the Toyota Camry , Boeing 747 , and the RMS Titanic .
+
+/PRODUCT/WEAPON
+A PRODUCT/WEAPON is a device or tool specifically designed to inflict harm , damage , or destruction , often used in defense , law enforcement , or warfare . Weapons may range from simple implements to advanced technological systems . Examples include the AK-47 rifle , Tomahawk missile , and medieval swords .
+
+/FACILITIES
+FACILITIES are physical structures or complexes that are constructed to serve specific functions , such as housing , transportation , or recreation . These entities are typically fixed in location and designed for human use or occupancy . Examples include airports , stadiums , and office buildings .
+
+/FACILITIES/BUILDING
+A FACILITIES/BUILDING is a constructed edifice with a roof and walls , intended for occupancy or use by people , animals , or equipment . Buildings serve a wide range of purposes , including residential , commercial , and industrial functions . Examples include the Empire State Building , the Louvre , and the Burj Khalifa .
+
+/FACILITIES/AIRPORT
+A FACILITIES/AIRPORT is a complex of runways , terminals , and support structures designed for the arrival , departure , and maintenance of aircraft , as well as the processing of passengers and cargo . Airports are critical nodes in global transportation networks . Examples include Heathrow Airport , Los Angeles International Airport , and Changi Airport .
+
+/FACILITIES/HIGHWAY_STREET
+A FACILITIES/HIGHWAY_STREET is a constructed thoroughfare designed for vehicular or pedestrian traffic , facilitating movement within and between urban or rural areas . These entities are characterized by their connectivity and infrastructure . Examples include the Autobahn , Broadway , and Route 66 .
+
+/FACILITIES/ATTRACTION
+A FACILITIES/ATTRACTION is a site or structure specifically developed or maintained to draw visitors for leisure , entertainment , or cultural interest . Attractions may include natural wonders , amusement parks , or historical landmarks . Examples include Disneyland , the Eiffel Tower , and Niagara Falls .
+
+/FACILITIES/BRIDGE
+A FACILITIES/BRIDGE is a constructed structure that spans a physical obstacle , such as a river , valley , or road , to provide passage for vehicles , pedestrians , or trains . Bridges are notable for their engineering and role in transportation networks . Examples include the Golden Gate Bridge , Tower Bridge , and the Brooklyn Bridge .
+
+/DISEASE
+A DISEASE is a pathological condition that affects the structure or function of an organism , typically characterized by specific symptoms and signs . Diseases may be caused by infections , genetic factors , environmental influences , or other mechanisms . Examples include influenza , diabetes , and malaria .
+
+/EVENT
+An EVENT is an occurrence or happening , often of significance , that takes place at a specific time and location . Events may be planned or spontaneous and can have social , cultural , or historical importance . Examples include the Olympic Games , World War II , and the Super Bowl .
+
+/EVENT/HURRICANE
+An EVENT/HURRICANE is a specific type of natural disaster characterized by a large , powerful tropical cyclone with strong winds and heavy rainfall , typically forming over warm ocean waters . Hurricanes are named and tracked due to their potential for widespread impact . Examples include Hurricane Katrina , Hurricane Sandy , and Hurricane Andrew .
+
+/EVENT/WAR
+An EVENT/WAR is a prolonged conflict between organized groups , typically states or nations , involving armed combat and significant social , political , and economic consequences . Wars are major historical events that shape societies and international relations . Examples include World War I , the Vietnam War , and the Gulf War .
+
+/GAME
+A GAME is a structured form of play or competition , governed by rules , that is undertaken for entertainment , skill development , or recreation . Games may be physical , mental , or digital in nature . Examples include chess , soccer , and Monopoly .
+
+/LANGUAGE
+A LANGUAGE is a system of communication consisting of spoken , written , or signed symbols , used by a particular community or group to convey meaning . Languages are characterized by their grammar , vocabulary , and cultural significance . Examples include English , Mandarin Chinese , and American Sign Language .
+
+/PLANT
+A PLANT is a living organism belonging to the kingdom Plantae , characterized by its ability to perform photosynthesis , typically having roots , stems , and leaves . Plants play essential roles in ecosystems and human life . Examples include oak trees , roses , and wheat .
+
+/CONTACT_INFO
+CONTACT_INFO refers to data or identifiers that enable communication with a person , organization , or entity . This type includes phone numbers , email addresses , and physical mailing addresses . Examples include john .doe@example .com , (555) 123-4567 , and 1600 Pennsylvania Avenue NW .
+
+/WORK_OF_ART
+A WORK_OF_ART is a creative or intellectual product that is recognized for its artistic , cultural , or aesthetic value . This type encompasses various forms of artistic expression , including literature , music , and visual arts . Examples include the Mona Lisa , Hamlet , and Bohemian Rhapsody .
+
+/WORK_OF_ART/BOOK
+A WORK_OF_ART/BOOK is a written or printed literary work , typically bound and published , that conveys information , stories , or ideas . Books may be fictional or non-fictional and are valued for their intellectual and cultural contributions . Examples include "To Kill a Mockingbird" , "The Great Gatsby" , and "A Brief History of Time" .
+
+/WORK_OF_ART/PLAY
+A WORK_OF_ART/PLAY is a dramatic composition intended for performance by actors on a stage , often exploring themes through dialogue and action . Plays are a central form of theatrical art . Examples include "Romeo and Juliet" , "Death of a Salesman" , and "Waiting for Godot" .
+
+/WORK_OF_ART/SONG
+A WORK_OF_ART/SONG is a musical composition with lyrics , intended to be sung and often accompanied by instruments . Songs are a fundamental form of musical expression and cultural transmission . Examples include "Imagine" by John Lennon , "Hey Jude" by The Beatles , and "Hallelujah" by Leonard Cohen .
+
+/LAW
+A LAW is a formal rule or system of rules established by a governing authority to regulate behavior within a society . Laws are codified and enforceable , serving as the foundation for legal systems . Examples include the Constitution of the United States , the Civil Rights Act , and the Magna Carta .
+
+/ANIMAL
+An ANIMAL is a living organism belonging to the kingdom Animalia , characterized by its ability to move , consume organic material , and respond to stimuli . Animals encompass a vast diversity of species , from mammals to insects . Examples include lions , dolphins , and butterflies .

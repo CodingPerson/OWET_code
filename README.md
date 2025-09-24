@@ -27,11 +27,11 @@ We construct two benchmark datasets of the OWET task based on existing fine-grai
 sh init_BBN.sh 
 ```
 
-This step generates a checkpoint file <init_file>.
+This step generates a checkpoint file "init_file".
 Based on this file, we run the following command to start training:
 
 ```
-sh train_BBN.sh -- <init_file>
+sh train_BBN.sh "init_file"
 ```
 
 #### Run DVHA on the OntoNotes dataset:
@@ -40,9 +40,9 @@ sh train_BBN.sh -- <init_file>
 sh init_OntoNotes.sh 
 ```
 
-This step generates a checkpoint file <init_file>.
+This step generates a checkpoint file "init_file".
 Based on this file, we run the following command to start training:
 
 ```
-sh train_OntoNotes.sh -- <init_file>
+sh train_OntoNotes.sh "init_file"
 ```
